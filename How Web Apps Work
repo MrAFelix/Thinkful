@@ -1,0 +1,7 @@
+Analogy Between Client and Server
+
+The client side of a client-server relationship is like a customer while the Server side is the waiter. The client will be the one
+requesting some sort of service and the server side will perform the service. The role of the server side is to perform actions asked for
+by the client. Just like a waiter in a restaurant, the server will be servicing multiple clients . 
+
+Request/Receive Diagram:  https://app.lucidchart.com/documents/view/bec64fa4-0ed0-4581-9b77-9a41ea18dad2/0_0
